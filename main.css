@@ -1,0 +1,14 @@
+body {
+    background-image: url(sd.jpg);
+    margin-left: 30%;
+    width: 50%;
+}
+p {
+  font-family: fantasy;
+    color: darkred;
+    font-size: 25px;
+}
+.un{
+   height: 30px;
+    border-radius: 5px;
+}
